@@ -26,9 +26,9 @@ TMDB---Movie-Data-Acquisition-and-NLP-pre-processing/
 ├── notebooks/
 │   └── preprocessing.ipynb      # (Planned) notebook for NLP preprocessing
 │
-├── README.md                    # Project documentation (you’ll add this)
-├── requirements.txt             # Python dependencies (recommended)
-└── .gitignore                   # Optional but good to add (ignore cache, pyc, etc.)
+├── README.md                    # Project documentation 
+├── requirements.txt             # Python dependencies 
+└── .gitignore                   # Optional
 
 
 
