@@ -10,6 +10,8 @@ The subsequent stages will involve **data preprocessing, exploratory analysis, a
 
 ## 🧱 Project Structure
 
+```
+
 TMDB---Movie-Data-Acquisition-and-NLP-pre-processing/
 │
 ├── data/
@@ -32,7 +34,7 @@ TMDB---Movie-Data-Acquisition-and-NLP-pre-processing/
 
 
 
----
+```
 
 ## ⚙️ Data Acquisition
 
